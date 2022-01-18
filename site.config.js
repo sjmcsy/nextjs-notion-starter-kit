@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '讽刺与幽默',
+  name: '观察与记录',
   domain: 'https://tame-peach-0af.notion.site/7c5d1bfb583f462a816a63abf10c1ce5',
   author: 'Jimmy Shen',
 
