@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nextjs-notion-starter-kit-sjmcsy.vercel.app/</loc>
+  <lastmod>2022-03-12T06:51:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nextjs-notion-starter-kit-sjmcsy.vercel.app/69620b2d84d24d7e8fd5c5211331357d</loc>
+  <lastmod>2022-03-12T06:51:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-notion-starter-kit-sjmcsy.vercel.app/24056679a6a54a73813af4348154c443</loc>
+  <lastmod>2022-03-12T06:51:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-notion-starter-kit-sjmcsy.vercel.app/cc4b8b623b724e1aab6d2201e2b25f38</loc>
+  <lastmod>2022-03-12T06:51:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-notion-starter-kit-sjmcsy.vercel.app/e1b9730da7694c7fbc042b793db38397</loc>
+  <lastmod>2022-03-12T06:51:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
